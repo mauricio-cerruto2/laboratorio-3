@@ -1,0 +1,10 @@
+aplicacion ejercicio 1
+package Ejercicios;
+
+public class App {
+	  public static void main(String[] args) {
+	        JuegoAdivinaNumero juego = new JuegoAdivinaNumero(3); 
+	        juego.juega();
+	    }
+
+}
